@@ -1,0 +1,10 @@
+#
+#Thu Oct 20 11:19:46 EDT 2016
+operators=-~?~\:~as~+~envelope~rnd~flip~>\=~length~internal_at~direction_to~last~.~abs~or~and~>~<~not~in~circle~box~point~sphere~rgb~\=~*~cos~sin~/~one_of~where~\!\=~mod~min~square~triangle~read~max~polyline~reverse~as_map~\:\:~with_weights~as_driving_graph~empty
+plugins=msi.gama.core~simtools.gaml.extensions.traffic~ummisco.gama.opengl
+attributes=points~location~x~y~perimeter
+statements=action~if~do~add~else~let~loop~put~set~reflex~aspect~draw~return~init~create~arg~switch~match~write~ask~output~display~display_population
+skills=reflex~skill_road_node~skill_road~advanced_driving
+constants=green~red~black~gray~km~h~m~minute
+types=string~list~int~unknown~bool~file~geometry~point~agent~rgb~float~date~graph~container~map~path
+actions=debug~error~tell~write~die~_init_~_step_~halt~pause~register~unregister~follow~goto~move~wander~compute_path~path_from_nodes~is_ready_next_road~test_next_road~advanced_follow_driving~external_factor_impact~speed_choice~lane_choice~drive

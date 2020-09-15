@@ -1,0 +1,10 @@
+#
+#Mon Nov 21 09:52:44 EST 2016
+operators=-~as~envelope~*~csv_file~remove_duplicates~accumulate~column_at~as_matrix~point~length~where~and~.~\=~flip~+~rnd~/~distance_to~?~\:~cos~sin~\!\=~triangle~<\=~at_distance~among~>~\!~empty~one_of~collect~closest_to~any_location_in~overlaps~gauss~box~circle~<~mod~min~square~or~not~>\=~internal_at~direction_to~last~abs~sphere~sum~mean~read~max~to_GAMA_CRS~in~first~polyline~reverse~as_map~\:\:~with_weights~directed~as_driving_graph~as_edge_graph
+plugins=msi.gama.core~simtools.gaml.extensions.traffic~ummisco.gama.opengl~ummisco.gama.java2d
+attributes=x~y~points~location~rows~perimeter
+statements=action~set~ask~add~let~if~else~do~write~return~reflex~arg~aspect~draw~capture~release~loop~put~init~create~switch~match~match_one~output~display~display_population~chart~data
+skills=reflex~advanced_driving~moving~driving~skill_road~skill_road_node
+constants=minute~mile~green~foot~h~yellow~black~purple~red~orange~gray~pixels
+types=string~list~int~unknown~file~geometry~point~agent~rgb~float~bool~date~matrix~graph~container~path~map
+actions=debug~error~tell~write~die~_init_~_step_~halt~pause~follow~goto~move~wander~compute_path~path_from_nodes~is_ready_next_road~test_next_road~advanced_follow_driving~external_factor_impact~speed_choice~lane_choice~drive~follow_driving~goto_driving~register~unregister

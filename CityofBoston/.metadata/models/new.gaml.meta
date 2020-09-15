@@ -1,0 +1,10 @@
+#
+#Tue Nov 08 10:20:55 EST 2016
+operators=-~as~envelope~*~csv_file~remove_duplicates~accumulate~column_at~as_matrix~point~length~where~and~.~\=~flip~rnd~any_location_in~one_of~\!\=~circle~+~triangle~<\=~at_distance~among~\!~empty~/~square~?~\:~cos~sin~<~mod~min~box~or~not~>\=~internal_at~direction_to~last~abs~>~sphere~rgb~read~max~collect~to_GAMA_CRS~first~in~polyline~reverse~as_map~\:\:~with_weights~directed~as_driving_graph~as_edge_graph
+plugins=msi.gama.core~simtools.gaml.extensions.traffic~ummisco.gama.opengl
+attributes=x~y~points~location~rows~perimeter
+statements=action~set~ask~add~let~if~else~do~reflex~arg~write~aspect~draw~init~create~capture~loop~return~put~switch~match_one~output~display~display_population
+skills=reflex~moving~advanced_driving~skill_road~skill_road_node
+constants=minute~pixels~black~foot~mile~h~yellow~purple~green~gray~pink~orange~red~blue~km
+types=string~list~int~unknown~file~geometry~point~agent~rgb~float~bool~date~graph~matrix~container~path~map
+actions=debug~error~tell~write~die~_init_~_step_~halt~pause~follow~goto~move~wander~compute_path~path_from_nodes~is_ready_next_road~test_next_road~advanced_follow_driving~external_factor_impact~speed_choice~lane_choice~drive~register~unregister
